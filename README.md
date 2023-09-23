@@ -19,9 +19,9 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
 - [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [x] [Google Dorking](https://tryhackme.com/room/googledorking)
-- [⏳] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
-- [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
+- [⏳] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 <!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
