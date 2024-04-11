@@ -21,7 +21,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Google Dorking](https://tryhackme.com/room/googledorking)
 - [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
-- [⏳] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
+- [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 <!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
@@ -29,7 +29,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 ## Level 2 - Tooling
 - [ ] [Tmux](https://tryhackme.com/room/rptmux)
-- [ ] [Nmap](https://tryhackme.com/room/furthernmap)
+- [⏳] [Nmap](https://tryhackme.com/room/furthernmap)
 - [ ] [Metasploit](https://tryhackme.com/room/metasploitintro)
 - [ ] [Hydra](https://tryhackme.com/room/hydra)
 - [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
