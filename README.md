@@ -30,7 +30,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 ## Level 2 - Tooling
 - [ ] [Tmux](https://tryhackme.com/room/rptmux)
 - [x] [Nmap](https://tryhackme.com/room/furthernmap)
-- [⏳] [Metasploit](https://tryhackme.com/room/metasploitintro)
+- [x] [Metasploit](https://tryhackme.com/room/metasploitintro)
 - [ ] [Hydra](https://tryhackme.com/room/hydra)
 - [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan)
