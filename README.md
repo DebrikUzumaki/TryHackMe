@@ -88,7 +88,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Windows Privesc Arena](https://tryhackme.com/room/windowsprivescarena)
 - [ ] [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena)
 - [ ] [Windows Privesc](https://tryhackme.com/room/windows10privesc)
-- [⏳] [Blaster](https://tryhackme.com/room/blaster)
+- [x] [Blaster](https://tryhackme.com/room/blaster)
 - [ ] [Ignite](https://tryhackme.com/room/ignite)
 - [ ] [Kenobi](https://tryhackme.com/room/kenobi)
 - [ ] [Capture the flag](https://tryhackme.com/room/c4ptur3th3fl4g)
