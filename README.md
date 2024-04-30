@@ -39,7 +39,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) -->
 
 **More introductory CTFs**
-- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
+- [⏳] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
 - [x] [Blue](https://tryhackme.com/room/blue)
 - [x] [Ice](https://tryhackme.com/r/room/ice) (write-up [here](https://medium.com/@debrikchakraborty200/ice-a-tryhackme-walkthrough-61c5871748b6))
 - [ ] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
@@ -55,7 +55,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 ## Level 4 - Web
-- [⏳] [OWASP top 10](https://tryhackme.com/room/owasptop10)
+- [x] [OWASP top 10](https://tryhackme.com/room/owasptop10)
 - [ ] [Inclusion](https://tryhackme.com/room/inclusion)
 - [ ] [Injection](https://tryhackme.com/room/injection)
 - [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
