@@ -21,7 +21,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Google Dorking](https://tryhackme.com/room/googledorking)
 - [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
-- [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
+- [] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 <!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
@@ -42,7 +42,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
 - [x] [Blue](https://tryhackme.com/room/blue)
 - [x] [Ice](https://tryhackme.com/r/room/ice) (write-up [here](https://medium.com/@debrikchakraborty200/ice-a-tryhackme-walkthrough-61c5871748b6))
-- [ ] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
+- [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
 - [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [ ] [Brute It](https://tryhackme.com/room/bruteit)
 
