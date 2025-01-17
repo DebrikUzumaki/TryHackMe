@@ -31,7 +31,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Tmux](https://tryhackme.com/room/rptmux)
 - [x] [Nmap](https://tryhackme.com/room/furthernmap)
 - [x] [Metasploit](https://tryhackme.com/room/metasploitintro)
-- [ ] [Hydra](https://tryhackme.com/room/hydra)
+- [x] [Hydra](https://tryhackme.com/room/hydra)
 - [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan)
 - [ ] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
@@ -43,14 +43,14 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Blue](https://tryhackme.com/room/blue)
 - [x] [Ice](https://tryhackme.com/r/room/ice) (write-up [here](https://medium.com/@debrikchakraborty200/ice-a-tryhackme-walkthrough-61c5871748b6))
 - [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
-- [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
+- [x] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [ ] [Brute It](https://tryhackme.com/room/bruteit)
 
 ## Level 3 - Crypto & Hashes with CTF practice
 - [ ] [Crack the hash](https://tryhackme.com/room/crackthehash)
-- [ ] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [⏳] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
-- [ ] [Ice](https://tryhackme.com/room/ice)
+- [x] [Ice](https://tryhackme.com/room/ice)
 - [ ] [Lazy Admin](https://tryhackme.com/room/lazyadmin)
 - [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
@@ -59,7 +59,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Inclusion](https://tryhackme.com/room/inclusion)
 - [ ] [Injection](https://tryhackme.com/room/injection)
 - [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-- [ ] [Juiceshop](https://tryhackme.com/room/owaspjuiceshop)
+- [x] [Juiceshop](https://tryhackme.com/room/owaspjuiceshop)
 - [ ] [Ignite](https://tryhackme.com/room/ignite)
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
@@ -103,7 +103,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
 - [ ] [Lian Yu](https://tryhackme.com/room/lianyu)
-- [ ] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+- [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 ## Level 9 - Windows
 - [ ] [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
